@@ -73,7 +73,7 @@ This system uses a multi-tiered approach to generate recommendations:
 Run the Streamlit application:
 
 ```bash
-streamlit run src/ui/app.py
+fastapi dev backend/main.py
 ```
 
 *   **User Login**: Log in as any user (e.g., User ID `1`, `2`, etc.) to browse and interact.
