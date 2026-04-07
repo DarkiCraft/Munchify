@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # Environments
+.idea/
 .env
 .venv/
 env/
@@ -13,8 +14,9 @@ env.bak/
 venv.bak/
 
 # Data
-data/raw/
-data/processed/
+legacy/data/
+legacy/data/raw/
+legacy/data/processed/
 *.sqlite
 *.db
 

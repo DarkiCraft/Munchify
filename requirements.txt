@@ -1,7 +1,31 @@
+# --- Web / API Framework ---
+fastapi[standard]
 streamlit
+
+# Data & Analysis
 pandas
 numpy
-torch
 scikit-learn
-faker
+
+# Machine Learning
+torch
+
+# Visualization
 plotly
+
+# Database
+sqlalchemy
+sqlalchemy-utils
+psycopg2
+
+# Auth & Security
+pyjwt
+bcrypt
+
+# Validation & Settings
+pydantic
+pydantic[email]
+python-dotenv
+
+# Utilities / Misc
+faker
