@@ -1,0 +1,21 @@
+# Web Frameworks
+fastapi[standard]
+streamlit # kept for legacy/ only, will be removed in the future
+
+# Machine Learning
+numpy
+torch
+
+# Database
+psycopg2
+sqlalchemy
+sqlalchemy-utils
+
+# Auth & Security
+bcrypt
+pyjwt
+
+# Validation & Settings
+pydantic
+pydantic[email]
+python-dotenv
