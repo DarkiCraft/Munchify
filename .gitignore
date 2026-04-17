@@ -20,6 +20,8 @@ legacy/data/processed/
 *.sqlite
 *.db
 
+artifacts/
+
 # Helper
 .DS_Store
 
