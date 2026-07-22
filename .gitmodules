@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/DarkiCraft/Munchify-Backend
+	url = https://github.com/darkicraft/Munchify-Backend
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Fatim-h/Munchify-Frontend.git
